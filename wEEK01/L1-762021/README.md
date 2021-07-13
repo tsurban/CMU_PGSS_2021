@@ -10,4 +10,4 @@ Code
  - Aggregation of tabular data
 
 LogisticRegressionInPython.ipynb was a demonstration of how to develop a logistic regresion moel in python
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/menonpg/CMU_PGSS_2021/blob/master/Week01/L2-762021/LogisticRegressionInPython.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tsurban/CMU_PGSS_2021/blob/main/wEEK01/L1-762021/myfirstcollabnotebook.ipynb)
